@@ -62,7 +62,7 @@ Download from [ExDark](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset
 ### IE Dataset (Ours)
 Our proposed **Industrial Enhancement (IE) Dataset** with 5,000 paired images is available at:
 ```
-https://github.com/bianduchesongjian/Biologically-Inspired-Low-Light-Enhancement
+The dataset in the paper will be made public after it is accepted for publication.
 ```
 
 ## Training
@@ -164,8 +164,7 @@ If you use this code or dataset in your research, please cite:
   year={2026}
 }
 ```
-Data：
-The dataset in the paper will be made public after it is accepted for publication.
+
 ## License
 
 This project is licensed under the MIT License.
