@@ -62,7 +62,7 @@ Download from [ExDark](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset
 ### IE Dataset (Ours)
 Our proposed **Industrial Enhancement (IE) Dataset** with 5,000 paired images is available at:
 ```
-The dataset in the paper will be made public after it is accepted for publication.
+The complete IE dataset and acquisition protocol will be publicly released upon paper acceptance.
 ```
 
 ## Training
